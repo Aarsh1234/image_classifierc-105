@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    color: blue;
+}
+.object, #result_object_accuracy, #result_object_name{
+    color: blue;
+}
+#camera{
+    border: 12px dotted blue;
+    width:350;
+    height:300;
+}
